@@ -18,7 +18,3 @@ updates:
           - "minor"
           - "patch"
     versioning-strategy: lockfile-only
-  - package-ecosystem: "devcontainers"
-    directory: "/"
-    schedule:
-      interval: "monthly"

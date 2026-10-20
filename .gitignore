@@ -2,5 +2,3 @@
 /.idea/
 /init_env.sh
 /target/
-/target-*/
-/workspaces/*/target/
